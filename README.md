@@ -17,16 +17,16 @@ Estimate of time needed to complete: 90 min
 
 Start time: 11:45am
 
-Finish time: _____
+Finish time: 1:30pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 115min
 
 Number and name of feature: 3 - Style and application
 
 Estimate of time needed to complete: 90 min
 
-Start time: 
+Start time: 6pm
 
-Finish time: _____
+Finish time: 8pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2 hrs
